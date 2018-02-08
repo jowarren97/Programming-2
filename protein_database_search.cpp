@@ -1,3 +1,5 @@
+/******NB Protein b too large too upload to github******/
+
 #include<iostream>
 #include<fstream>
 #include<string>
